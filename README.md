@@ -1,2 +1,2 @@
 # vocal-cords
-App that receives audio and then reproduces it
+Vocal cords subscribes to a channel and starts receiving text to be said. As the text is received, Vocal Cords connects to Broca's Area to turn it into speech, an audio file is then generated and vocal-cords reproduces it
